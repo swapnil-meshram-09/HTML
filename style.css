@@ -1,0 +1,91 @@
+*{
+    background-color: rgb(251, 219, 176);
+  }
+  
+  p{
+      background-color: rgb(0, 0, 0);
+      color:green;
+      font-size: 50px;
+      font-weight:900;
+      font-family:serif;
+      font-style:italic;
+  }   
+  
+  img{
+      width: 40%;
+      margin-left: 8%;
+  }
+  
+  video{
+      width: 38em;
+      padding-top: 1%;
+  }
+  
+  
+  
+  .color{
+      height: 80%;
+      width: 80%;
+      background-color: rgb(0, 0, 0);
+      padding: 10px;
+      position:absolute;
+      margin: 7.5%;
+      display:flex;
+      
+      
+  }
+  
+  .color1{ 
+      height: 30%;
+      width: 30%;
+      background-color: rgb(214, 14, 254);
+      padding: 20px;
+      margin: 10px;
+  }
+  
+  .color2{
+      height: 30%;
+      width: 30%;
+      background-color: rgb(7, 147, 255);
+      padding: 30px;
+      margin: 10px;
+     
+  }
+  
+  .color3{
+      height: 30%;
+      width: 30%;
+      background-color: rgb(70, 255, 9);
+      padding: 40px;
+      margin: 10px;
+     
+  }
+  
+  
+  .color4{ 
+      height: 30%;
+      width: 30%;
+      background-color: rgb(214, 14, 254);
+      padding: 20px;
+      margin: 10px;
+  }
+  
+  .color5{
+      height: 30%;
+      width: 30%;
+      background-color: rgb(7, 147, 255);
+      padding: 30px;
+      margin: 10px;
+     
+  }
+  
+  .color6{
+      height: 30%;
+      width: 30%;
+      background-color: rgb(70, 255, 9);
+      padding: 40px;
+      margin: 10px;
+     
+  }
+  
+  
